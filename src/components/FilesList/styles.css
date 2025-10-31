@@ -1,0 +1,8 @@
+ul.list-wrapper {
+  width: 400px;
+  /* list-style-position: inside; */
+}
+
+.hide-section {
+  display: none;
+}
